@@ -1,7 +1,7 @@
 # Documentación Técnica: Optimización de Código y Medición de Tiempos
 
 **Autor:** Andrés Nevárez  
-**Repositorio:** [optimizacion-primos](https://github.com/AndyNeva/optimizacion-primos)
+**Repositorio:** [Actividad Autónoma 4](https://github.com/AndyNeva/cds-actividad-autonoma-4.git)
 
 ---
 
