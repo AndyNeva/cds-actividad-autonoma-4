@@ -182,7 +182,7 @@ def main ():
    # 4. Resumen final
     print("\n")
     print("Resumen \n")
-    print(f"Original (10k): {tiempos['original']:.4f}s")
+    print(f"Original: {tiempos['original']:.4f}s")
     print(f"Comprehension: {tiempos['comprehension']:.4f}s")
     print(f"NumPy: {tiempos['numpy']:.4f}s")
     print("\nArchivos generados:")

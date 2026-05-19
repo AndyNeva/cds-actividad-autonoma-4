@@ -1,13 +1,13 @@
-         1595446 function calls in 0.485 seconds
+         1595446 function calls in 0.448 seconds
 
    Ordered by: cumulative time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    0.032    0.032    0.484    0.484 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:44(encontrar_primos_comprehension)
-    99999    0.087    0.000    0.452    0.000 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:23(num_primo_optimizado)
-    49999    0.173    0.000    0.347    0.000 {built-in method builtins.all}
-  1395441    0.184    0.000    0.184    0.000 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:41(<genexpr>)
-    50000    0.008    0.000    0.008    0.000 {built-in method math.isqrt}
+        1    0.027    0.027    0.447    0.447 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:44(encontrar_primos_comprehension)
+    99999    0.078    0.000    0.420    0.000 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:23(num_primo_optimizado)
+    49999    0.163    0.000    0.327    0.000 {built-in method builtins.all}
+  1395441    0.173    0.000    0.173    0.000 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:41(<genexpr>)
+    50000    0.007    0.000    0.007    0.000 {built-in method math.isqrt}
         1    0.000    0.000    0.000    0.000 d:\Andy\Proyectos\01_Academicos\cds-actividad-autonoma-4\codigo_optimizado.py:56(encontrar_primos_numpy)
         1    0.000    0.000    0.000    0.000 D:\Programas\Anaconda\Lib\site-packages\numpy\core\numeric.py:136(ones)
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
